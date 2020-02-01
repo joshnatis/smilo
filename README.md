@@ -41,3 +41,7 @@ They labored over me for weeks, staying late at work, tossing and turning at nig
 
 The O(3) Musketeers:
 [Xavier](https://github.com/Xavulu), [Steffen](https://github.com/lohs), and [Josh](https://github.com/joshnatis).
+
+## NOTE
+
+This application is not complete! Read [here](./src/README.md) for more.
