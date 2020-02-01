@@ -8,7 +8,7 @@ Secondly, this application has yet to be completed. Essentially, in hip lingo th
 may be a stretch here). 
 
 Lastly: V1 and V2 are two different apps. I wrote V1 while trying to figure out React Native, essentially overnight.
-It's primitive (it's essentially a styled page with an image and buttons), but I also had a clear vision on how to proceed 
+It's primitive (it's pretty much just a styled page with an image and buttons), but I also had a clear vision on how to proceed 
 to make it into a Duolingo-style thingy mabob. V2 was written by a friend, and I believe the two share no common code. 
 It's also much more complex, though it strays a bit from our original idea.
 
